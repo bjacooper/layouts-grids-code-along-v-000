@@ -1,0 +1,11 @@
+
+img, video, audio, iframe, form {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* LAYOUT STYLES */
+
+.row {
+  margin-bottom: 20px;
+}
